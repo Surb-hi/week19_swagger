@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Testing Categories CURD operation using different request on the application." skipped="0" tests="4" time="3.79" timestamp="2022-06-21T16:51:50.202+01:00[Europe/London]"><testcase name="User can send get request."><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stores.localhost.model.cucumber.steps.Categories.userGetBackAValidStatusCode(Categories.java:31)&#13;
+✽.Then User get back a valid status code 200(Categories.feature:5)&#13;
+</system-err></testcase><testcase name="User can create data using post request."/><testcase name="User can Update data using patch request."/><testcase name="User can Delate data using delete request."/></testsuite>

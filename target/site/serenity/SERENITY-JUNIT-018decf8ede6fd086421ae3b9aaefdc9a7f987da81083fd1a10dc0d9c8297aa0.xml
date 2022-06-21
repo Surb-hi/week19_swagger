@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Testing Product CURD operation using different request on the application." skipped="0" tests="4" time="0.45" timestamp="2022-06-21T16:51:54.837+01:00[Europe/London]"><testcase name="User can send get request for Product."/><testcase name="User can create data using post request for Product."><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+stores.localhost.model.cucumber.steps.Product.userGetBackAValidStatusCodeForProducts(Product.java:39)&#13;
+✽.Then User get back a valid status code 201 for Products(Product.feature:9)&#13;
+</system-err></testcase><testcase name="User can Update data using patch request."/><testcase name="User can Delate Product using delete request."/></testsuite>

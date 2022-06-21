@@ -1,0 +1,14 @@
+stores\localhost\model\constants\EndPoints.class
+stores\localhost\model\swggerinfo\UtilitiesSteps.class
+stores\localhost\model\swggerinfo\StoreSteps.class
+stores\localhost\model\constants\Path.class
+stores\localhost\model\model\StorePojo.class
+stores\localhost\model\App.class
+stores\localhost\model\model\ServicesPojo.class
+stores\localhost\model\swggerinfo\ProductSteps.class
+stores\localhost\model\swggerinfo\CategoriesSteps.class
+stores\localhost\model\utils\PropertyReader.class
+stores\localhost\model\utils\TestUtils.class
+stores\localhost\model\swggerinfo\ServicesSteps.class
+stores\localhost\model\model\ProductPojo.class
+stores\localhost\model\model\CategoriesPojo.class
